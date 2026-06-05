@@ -2,8 +2,11 @@
 
 <p align="center">わくわくする作品、てくてく作って歩いてます！🌟</p>
 
-> [!NOTE] ** 2026年6月4日　新作Webアプリ「me-ru」を公開しました！
+<p align="center">
+  <img src="https://img.shields.io/badge/NEWS-2026.6.4_新作「me--ru」公開！-EAB308?style=for-the-badge&labelColor=F97316" alt="2026年6月4日 me-ru 公開">
+</p>
 
+<br>
 <h2 align="center"> me-ru.tech-teku.com </h2>
 
 <div align="center">
@@ -14,6 +17,7 @@
   </a>
 </div>
 
+<br>
 <h2 align="center">TECH-TEKU.COM</h2>
 
 <div align="center">
@@ -32,12 +36,12 @@
   </a>
 </div>
 
+<br>
 <h2 align="center">⭐1000個への道</h2>
 
 <div align="center">
-  <br>
   <img src="https://progress-bar.xyz/0/?scale=1000&suffix=%20%2F%201000%20%E2%AD%90&width=400&color=F97316" alt="スター獲得状況: 0 / 1000">
-  <p><br>目標は☆100個！！</p>
+  <p><br>目標は☆1000個！！</p>
 </div>
 
 
